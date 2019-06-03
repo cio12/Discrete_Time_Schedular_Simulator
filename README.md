@@ -1,0 +1,2 @@
+# Discrete_Time_Schedular_Simulator
+This project was written for Professor Mina Guirguis' CS 4328 Operating Systems class at Texas State University. The project was written with my partner Zachary Golla. The program simulates 4 CPU scheduling algorithms (First-Come First-Serve, Shortest Remaining Time First, Highest Response Ratio Next, and Round Robin) and compares 4 metrics (average turnaround time, total throughput, CPU utilization, and average number of processes in the ready queue).
